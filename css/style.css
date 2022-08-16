@@ -1,0 +1,127 @@
+body{
+    font-family:'lato';
+   
+}
+.container img{
+    width: 80px;
+    
+}
+.navbar{
+    border-bottom: solid 5px #009FE3;
+    
+}
+header{
+    min-height: 100vh;
+    background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(../images/home.jpg);
+    background-position: center;
+    background-size: cover;
+    padding-top: 200px;
+    color: white;
+}
+.card{
+background-color: #007BFF;
+BABCBD
+}
+ input[type=text],
+  input[type=email],
+  input[type=password]
+ {
+    margin-bottom: 10px;
+    width: 100%;
+    padding: 5px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    
+ 
+}
+.card a{
+    
+    width: 100%;
+    border: white 1px solid ;
+
+}
+.card p,h2{
+    text-align: center;
+}
+
+
+.row2{
+    background-color: #007BFF;
+    color: white;
+    text-align: center;
+}
+.row2 p{
+    text-align: center;
+}
+.asmaa{
+    background-color:#333333 ;
+      color: white;
+    text-align: center;
+}
+.asmaa p{
+    text-align: center;
+}
+h1{
+    font-size: 50px;
+
+}
+button{
+    margin-bottom: 30px;
+}
+.row1{
+    background-color: white;
+    display: flex;
+    color: black;
+}
+.right-work{
+    margin-top: 20px;
+    background-color: white;
+}
+.left-work img {
+    border-radius: 100%;
+    width: 500px;
+    margin-top: 20px;
+}
+.left-work{
+    background-color: white;
+}
+.right-work h3,p{
+    text-align: left;
+}
+.row3{
+    background-color:#333333;
+    display: flex;
+    color: white;
+}
+.left-work1{
+    margin-top: 20px;
+    background-color:#333333; 
+    margin-left: 60px;
+}
+.right-work1 img {
+    border-radius: 100%;
+    width: 500px;
+    margin-top: 20px;
+}
+.right-work1{
+ background-color:#333333; 
+}
+.left-work1 h3,p{
+    text-align: left;
+}
+.row4{
+    background-color:#343A40;
+    /* display: flex; */
+    color: white;
+    
+}
+.row4 p{
+    text-align: center;
+}
+.row4 h3{
+    text-align: center;
+}
+.row4 button{
+    margin-left: 47%;
+}
+
